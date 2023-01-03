@@ -3,6 +3,7 @@ SITENAME = 'dipware'
 SITEURL = ''
 
 PATH = 'content'
+THEME = 'eevee-0.0.15'
 
 TIMEZONE = 'EST'
 
